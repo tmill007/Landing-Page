@@ -1,0 +1,63 @@
+h1, h2, h3, h4, h5, h6, 
+p, li, a, button {
+    font-family: 'Roboto', sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+footer,
+.hero {
+    background-color: #1F2937;
+}
+
+.hero.main-text{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.hero.secondary-text,
+.header .link-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo-text {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin: 0;
+    
+}
+
+.hero-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero {
+    padding: 20px 200px;
+}
+
+.header.links {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+    gap: 25px
+}
+
+.btn {
+    background: #3882F6;
+    color: #F9FAF8;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 4px 20px;
+    font-weight: bold;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
