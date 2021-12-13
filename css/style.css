@@ -137,6 +137,25 @@ footer,
     padding: 0 20px;
 }
 
+
 .section3 {
+    height: 400px;
+    padding: 0px 200px;
+    padding-bottom: 60px;
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.section3 h4 {
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    
+    margin-bottom: 0;
+}
+
+.section3 p {
+    margin-left: auto;
 }
