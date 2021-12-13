@@ -159,3 +159,53 @@ footer,
 .section3 p {
     margin-left: auto;
 }
+
+.section4 {
+    display: flex;
+    padding: 0px 200px;
+    height: 300px;
+    align-items: center;
+    
+    
+
+}
+
+.sec4-container {
+    display: flex;
+    flex: 1;
+    background-color: #3882F6;
+    border-radius: 4px;
+    margin: 0 100px;
+    padding-bottom: 0 100px;
+    
+}
+
+.sec4-container div {
+    margin: 0 200px;
+    padding: 30px;
+    
+}
+
+.sec4-container h4,
+.sec4-container p {
+    color: #F9FAF8;
+    margin-bottom: 0px;
+    padding-bottom: 0px
+}
+
+.sec4-container p {
+    color: #F9FAF8;
+    margin-top: 0px;
+    padding-top: 0px
+}
+
+
+
+.btn2 {
+    flex: ;
+    align-self: center;
+    padding: ;
+    margin: 20px;
+    border: 1px solid #F9FAF8;
+    ;
+}
